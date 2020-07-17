@@ -1,6 +1,9 @@
 # Fancy-ing-my-README
 Try learning how to make my readme.md more beautiful more readable and make it looks interesting! :D
 
+
+![TestImage](https://i.imgur.com/UCoCcGJ.jpg)
+
 # Header Sizing
 # # For header sizing the more # the smaller :P
 ###### 6# teh smollest :3
